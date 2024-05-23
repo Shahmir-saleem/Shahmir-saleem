@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm SHAHMIR SALEEM</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" align="right" width="500px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-amansiddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="m-amansiddiqui" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shahmir-saleem&label=Profile%20views&color=0e75b6&style=flat" alt="Shahmir-saleem" /> </p>
 
 - 🌱 I’m currently learning **WEB & APP DEVELOPMENT**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, JS,BOOTSTRAP**
 
 - 📫 How to reach me **shahmirsaleem158@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman siddiqui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Shahmir-saleem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahmir-saleem" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
