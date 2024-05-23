@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 💬 Ask me about **HTML, CSS, JS,BOOTSTRAP**
+- 💬 Ask me about **HTML, CSS, JS, BOOTSTRAP**
 
 - 📫 How to reach me **shahmirsaleem158@gmail.com**
 
